@@ -21,8 +21,6 @@ During this internship, I worked on real-world datasets, performed exploratory d
 ---
 
 ## 📌 **Task 2 – Unemployment Analysis with Python**  
-📌 *To be added soon*  
-Will include:  
 - Dataset cleaning  
 - EDA  
 - State-wise and month-wise unemployment visualizations  
@@ -33,8 +31,6 @@ Will include:
 ---
 
 ## 📌 **Task 3 – Car Price Prediction Using Machine Learning**  
-📌 *To be added soon*  
-Will include:  
 - Data preprocessing  
 - Feature encoding  
 - ML models such as Linear Regression & RandomForest  
