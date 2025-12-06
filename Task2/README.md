@@ -1,12 +1,15 @@
 🌟 Task 2 — Unemployment Analysis with Python
 AICTE Oasis Infobyte Internship (OIBSIP)
+
 📌 Overview
 
 This project is completed as Task 2 of my AICTE Oasis Infobyte Data Science Internship (OIBSIP).
 The objective of this task is to analyze unemployment trends in India during the COVID-19 period using Python.
 The dataset includes unemployment rates across states, regions, rural/urban classifications, and multiple time periods—making it ideal for real-world exploratory data analysis and visualization.
 
+
 📂 Dataset Description
+
 
 The dataset contains the following fields:
 
@@ -23,6 +26,7 @@ Estimated Employed – Number of employed individuals
 Estimated Labour Participation Rate (%) – Participation of working population
 
 Area – Classification as Rural or Urban
+
 
 Dataset Source:
 ✔ Kaggle – Unemployment in India (COVID-19 Period)
@@ -44,7 +48,10 @@ Google Colab
 
 KaggleHub (for dataset import)
 
+
 📊 Tasks Performed
+
+
 1️⃣ Data Loading
 
 Downloaded dataset using kagglehub
@@ -54,6 +61,7 @@ Loaded CSV with Pandas
 Displayed initial rows & verified dataset structure
 
 Checked column names & data types
+
 
 2️⃣ Data Cleaning & Preprocessing
 
@@ -66,6 +74,7 @@ Removed missing/unwanted values
 Standardized dataset for further analysis
 
 3️⃣ Exploratory Data Analysis (EDA)
+
 ✔ Region-wise Unemployment (Bar Plot)
 
 Identified states with the highest unemployment during COVID.
@@ -88,7 +97,9 @@ Labour Participation Rate
 
 Number of Employed
 
+
 4️⃣ Additional Analysis
+
 
 Computed average unemployment for each state
 
@@ -98,7 +109,9 @@ Compared Rural vs Urban unemployment
 
 Highlighted states with major economic impact
 
+
 ⭐ Key Insights
+
 
 Sharp spike in unemployment during April–May 2020 (strict lockdown period)
 
@@ -110,7 +123,9 @@ Urban unemployment was initially higher, but both rural/urban sectors were affec
 
 Employment numbers declined sharply in states with high unemployment
 
+
 🧠 Conclusion
+
 
 This project demonstrates how Python can be used for time-series analysis, visualization, and economic insights.
 Using Pandas, Matplotlib, and Seaborn, I was able to:
@@ -126,9 +141,11 @@ Understand COVID-19’s impact through data-driven insights
 This task strengthened my skills in
 data analysis, visualization, trend interpretation, and storytelling with data.
 
+
 📁 Files Included
 
-Task2_Unemployment_Analysis.ipynb — Complete Google Colab Notebook
+
+Unemployment_Analysis.ipynb — Complete Google Colab Notebook
 
 README.md — Project documentation
 
